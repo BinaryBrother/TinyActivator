@@ -19,7 +19,6 @@ namespace Activator
         private const int SW_HIDE = 0;
         static void Main(string[] args)
         {
-            // Hide the main console window
             var handle = GetConsoleWindow();
             ShowWindow(handle, SW_HIDE);
             var psi = new ProcessStartInfo
@@ -29,11 +28,10 @@ namespace Activator
                 UseShellExecute = false,
                 RedirectStandardOutput = false,
                 RedirectStandardError = false,
-                CreateNoWindow = false // Shows the window, similar to @SW_SHOW
+                CreateNoWindow = false
             };
 
             Process process = Process.Start(psi);
-            // process.WaitForExit();
         }
     }
 }
