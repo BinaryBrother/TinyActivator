@@ -1,0 +1,8 @@
+D:\Dropbox\Projects\Activator\Activator\bin\Debug\Activator.exe.config
+D:\Dropbox\Projects\Activator\Activator\bin\Debug\Activator.exe
+D:\Dropbox\Projects\Activator\Activator\bin\Debug\Activator.pdb
+D:\Dropbox\Projects\Activator\Activator\obj\Debug\Activator.csproj.AssemblyReference.cache
+D:\Dropbox\Projects\Activator\Activator\obj\Debug\Activator.csproj.CoreCompileInputs.cache
+D:\Dropbox\Projects\Activator\Activator\obj\Debug\Activator.exe
+D:\Dropbox\Projects\Activator\Activator\obj\Debug\Activator.pdb
+D:\Dropbox\Projects\Activator\Activator\obj\Debug\Activator.exe.config

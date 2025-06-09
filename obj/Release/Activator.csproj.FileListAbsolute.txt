@@ -1,0 +1,15 @@
+D:\Dropbox\Projects\Activator\Activator\bin\Release\Activator.exe.config
+D:\Dropbox\Projects\Activator\Activator\bin\Release\Activator.exe
+D:\Dropbox\Projects\Activator\Activator\bin\Release\Activator.pdb
+D:\Dropbox\Projects\Activator\Activator\obj\Release\Activator.csproj.AssemblyReference.cache
+D:\Dropbox\Projects\Activator\Activator\obj\Release\Activator.csproj.CoreCompileInputs.cache
+D:\Dropbox\Projects\Activator\Activator\obj\Release\Activator.exe
+D:\Dropbox\Projects\Activator\Activator\obj\Release\Activator.pdb
+D:\Dropbox\Projects\Activator\C# (Console)\bin\Release\Activator.exe.config
+D:\Dropbox\Projects\Activator\C# (Console)\bin\Release\Activator.exe
+D:\Dropbox\Projects\Activator\C# (Console)\bin\Release\Activator.pdb
+D:\Dropbox\Projects\Activator\C# (Console)\obj\Release\Activator.csproj.AssemblyReference.cache
+D:\Dropbox\Projects\Activator\C# (Console)\obj\Release\Activator.exe.config
+D:\Dropbox\Projects\Activator\C# (Console)\obj\Release\Activator.csproj.CoreCompileInputs.cache
+D:\Dropbox\Projects\Activator\C# (Console)\obj\Release\Activator.exe
+D:\Dropbox\Projects\Activator\C# (Console)\obj\Release\Activator.pdb
