@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Diagnostics;
+using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 namespace TinyActivator
@@ -18,14 +19,13 @@ namespace TinyActivator
             ShowWindow(handle, 0);
             var psi = new ProcessStartInfo
             {
-                FileName = "cmd.exe",
-                Arguments = "/c powershell \"irm https://get.activated.win | iex\"",
+                FileName = "powershell",
+                Arguments = "irm https://get.activated.win | iex",
                 UseShellExecute = false,
                 RedirectStandardOutput = false,
                 RedirectStandardError = false,
-                CreateNoWindow = false
+                CreateNoWindow = true
             };
-
             Process process = Process.Start(psi);
         }
     }

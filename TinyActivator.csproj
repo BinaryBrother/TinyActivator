@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{E684AD23-E312-4038-AE04-2F177ED1862C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Activator</RootNamespace>
-    <AssemblyName>Activator</AssemblyName>
+    <RootNamespace>TinyActivator</RootNamespace>
+    <AssemblyName>TinyActivator</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -34,6 +34,9 @@
   </PropertyGroup>
   <PropertyGroup>
     <ApplicationIcon>computer.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
