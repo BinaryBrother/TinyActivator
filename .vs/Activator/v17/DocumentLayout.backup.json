@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Dropbox\\Projects\\Activator\\C# (Console)\\",
+  "WorkspaceRootPath": "D:\\Dropbox\\Projects\\TinyActivator\\C# GitHub\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E684AD23-E312-4038-AE04-2F177ED1862C}|Activator.csproj|D:\\Dropbox\\Projects\\Activator\\C# (Console)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E684AD23-E312-4038-AE04-2F177ED1862C}|Activator.csproj|d:\\dropbox\\projects\\tinyactivator\\c# github\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E684AD23-E312-4038-AE04-2F177ED1862C}|Activator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Dropbox\\Projects\\Activator\\C# (Console)\\Program.cs",
+              "DocumentMoniker": "D:\\Dropbox\\Projects\\TinyActivator\\C# GitHub\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Dropbox\\Projects\\Activator\\C# (Console)\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
+              "ToolTip": "D:\\Dropbox\\Projects\\TinyActivator\\C# GitHub\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T18:20:22.416Z",
               "EditorCaption": ""

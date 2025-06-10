@@ -13,3 +13,11 @@ D:\Dropbox\Projects\Activator\C# (Console)\obj\Release\Activator.exe.config
 D:\Dropbox\Projects\Activator\C# (Console)\obj\Release\Activator.csproj.CoreCompileInputs.cache
 D:\Dropbox\Projects\Activator\C# (Console)\obj\Release\Activator.exe
 D:\Dropbox\Projects\Activator\C# (Console)\obj\Release\Activator.pdb
+D:\Dropbox\Projects\TinyActivator\C# GitHub\bin\Release\Activator.exe.config
+D:\Dropbox\Projects\TinyActivator\C# GitHub\bin\Release\Activator.exe
+D:\Dropbox\Projects\TinyActivator\C# GitHub\bin\Release\Activator.pdb
+D:\Dropbox\Projects\TinyActivator\C# GitHub\obj\Release\Activator.csproj.AssemblyReference.cache
+D:\Dropbox\Projects\TinyActivator\C# GitHub\obj\Release\Activator.exe.config
+D:\Dropbox\Projects\TinyActivator\C# GitHub\obj\Release\Activator.csproj.CoreCompileInputs.cache
+D:\Dropbox\Projects\TinyActivator\C# GitHub\obj\Release\Activator.exe
+D:\Dropbox\Projects\TinyActivator\C# GitHub\obj\Release\Activator.pdb

@@ -1,20 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36127.28 d17.14
+VisualStudioVersion = 17.14.36127.28
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Activator", "Activator.csproj", "{E684AD23-E312-4038-AE04-2F177ED1862C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyActivator", "TinyActivator.csproj", "{E684AD23-E312-4038-AE04-2F177ED1862C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
 		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{E684AD23-E312-4038-AE04-2F177ED1862C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E684AD23-E312-4038-AE04-2F177ED1862C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E684AD23-E312-4038-AE04-2F177ED1862C}.Debug|x86.ActiveCfg = Debug|Any CPU
 		{E684AD23-E312-4038-AE04-2F177ED1862C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E684AD23-E312-4038-AE04-2F177ED1862C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E684AD23-E312-4038-AE04-2F177ED1862C}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

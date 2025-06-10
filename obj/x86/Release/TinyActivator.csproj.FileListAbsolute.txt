@@ -1,0 +1,5 @@
+D:\Dropbox\Projects\TinyActivator\C# GitHub\bin\x86\Release\Activator.exe.config
+D:\Dropbox\Projects\TinyActivator\C# GitHub\bin\x86\Release\Activator.exe
+D:\Dropbox\Projects\TinyActivator\C# GitHub\obj\x86\Release\TinyActivator.csproj.AssemblyReference.cache
+D:\Dropbox\Projects\TinyActivator\C# GitHub\obj\x86\Release\TinyActivator.csproj.CoreCompileInputs.cache
+D:\Dropbox\Projects\TinyActivator\C# GitHub\obj\x86\Release\Activator.exe

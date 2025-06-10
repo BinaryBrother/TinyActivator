@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Diagnostics;
-using System.Linq;
 using System.Runtime.InteropServices;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Activator
+namespace TinyActivator
 {
     internal class Program
     {
@@ -16,11 +12,10 @@ namespace Activator
         [DllImport("user32.dll")]
         private static extern bool ShowWindow(IntPtr hWnd, int nCmdShow);
 
-        private const int SW_HIDE = 0;
         static void Main(string[] args)
         {
             var handle = GetConsoleWindow();
-            ShowWindow(handle, SW_HIDE);
+            ShowWindow(handle, 0);
             var psi = new ProcessStartInfo
             {
                 FileName = "cmd.exe",
